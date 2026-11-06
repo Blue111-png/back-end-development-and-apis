@@ -98,13 +98,14 @@
     "dashedName": "build-a-submission-form",
     "isIntegrated": false,
     "isPublic": true,
-    "currentLesson": 0,
+    "currentLesson": 21,
     "runTestsOnWatch": true,
     "seedEveryLesson": false,
     "isResetEnabled": false,
     "blockingTests": null,
     "breakOnFailure": null,
-    "numberOfLessons": 22
+    "numberOfLessons": 22,
+    "completedDate": 1793262291797
   },
   {
     "id": 8,
@@ -117,20 +118,22 @@
     "isResetEnabled": false,
     "blockingTests": true,
     "breakOnFailure": true,
-    "numberOfLessons": 1
+    "numberOfLessons": 1,
+    "completedDate": 1793307427619
   },
   {
     "id": 9,
     "dashedName": "build-a-weather-service-api",
     "isIntegrated": false,
     "isPublic": true,
-    "currentLesson": 0,
+    "currentLesson": 19,
     "runTestsOnWatch": true,
     "seedEveryLesson": false,
     "isResetEnabled": false,
     "blockingTests": null,
     "breakOnFailure": null,
-    "numberOfLessons": 20
+    "numberOfLessons": 20,
+    "completedDate": 1793949230189
   },
   {
     "id": 10,
@@ -143,7 +146,8 @@
     "isResetEnabled": false,
     "blockingTests": true,
     "breakOnFailure": true,
-    "numberOfLessons": 1
+    "numberOfLessons": 1,
+    "completedDate": 1793952806836
   },
   {
     "id": 11,

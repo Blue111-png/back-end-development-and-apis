@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "data sanitizer",
   "license": "BSD-3-Clause",
+  "type": "commonjs",
   "dependencies": {
     "express": "^5.2.1"
   }
